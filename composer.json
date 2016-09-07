@@ -1,0 +1,16 @@
+{
+    "name": "cakeweb/registry",
+    "description": "Implementação do Registry Pattern",
+    "type": "git",
+    "authors": [
+        {
+            "name": "CakeWeb",
+            "email": "contato@cakeweb.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CakeWeb\\": "src/"
+        }
+    }
+}
